@@ -1,10 +1,10 @@
 using System;
 
 
-namespace R5T.D0089.Construction
+namespace R5T.D0089.X001
 {
     /// <summary>
-    /// Construction project for IWebHostStartup service..
+    /// Basic extensions.
     /// </summary>
     public static class Documentation
     {
